@@ -1,7 +1,7 @@
 #include<SoftwareSerial.h>
 String data;
 
-int ledpin1=8;
+int ledpin1=8;  //Three led's are connected to these respective pins
 int ledpin2=2;
 int ledpin3=3;
 int bttx=9;    //tx of bluetooth module is connected to pin 9 of arduino
