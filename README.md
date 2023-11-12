@@ -1,4 +1,4 @@
-                                                                              **VOICE CONTROLLED LED**
+**VOICE CONTROLLED LED**
 
 
 This Project aims to control a series of led light using voice commands that are taken through a mobile app.The mobile app uses the on device text-to-speech algorithm to convert your command
