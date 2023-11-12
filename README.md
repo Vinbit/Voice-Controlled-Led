@@ -16,7 +16,6 @@ to a string and pass it on to the arduino and the functions are performed accord
 
 
 **Steps to create the project**
-
 Step1:Install arduino ide on the system and create the code file and copy the code.
 step2:Create the circuit and connect the components accordingly
 step3: Upload the project on the arduino uno3 board 
@@ -24,4 +23,4 @@ step4: Install the app on your device and connect it to the HC05 module connecte
 step5:Enjoy the results!!
 
 
-**I WILL BE ADDING THE STEPS TO MAKE THE CIRCUIT SOON** **I WILL BE ADDING THE STEPS TO MAKE THE CIRCUIT SOON** **I WILL BE ADDING THE STEPS TO MAKE THE CIRCUIT SOON**
+**I WILL BE ADDING THE STEPS TO MAKE THE CIRCUIT SOON**
