@@ -19,17 +19,9 @@ void loop()
 {
   if(bluetooth.available())    //if bluetooth module is transmitting data
   {
-    /*int pos=bluetooth.read(); // store the data in pos variable
-    Serial.println(pos);
-    x.write(pos);             //move servo head to the given position
-  }*/
- 
-  
-  //for(int j=0;j<2;j++)
-  //{
+    
   data=bluetooth.readString();
   
-  //}
   if(data=="yellow on")
   {
     digitalWrite(ledpin2,HIGH);
